@@ -67,8 +67,6 @@ Execute the program using runserver command.
     
 </style>
 
-
-
 <h2> Slot Time Table-Maha lakshmi M (25015887)</h2>
 
 <table>
@@ -125,9 +123,6 @@ Execute the program using runserver command.
   </tbody></table><!-- Code injected by live-server -->
  <table>
     
-  
-  
-  
   <h1>Course Details</h1>
     <tr>
       <th>S.No</th>
